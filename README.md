@@ -52,31 +52,31 @@
 
 ## Libraries
 
-### .NET
+#### .NET
 - [Confluent's .NET Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-dotnet)
 
-### Java
+#### Java
 - [Confluent's Java Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-java)
 
-### Go
+#### Go
 - [Confluent's Go Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-go)
 - [Sarama - Go client library for Apache Kafka](https://github.com/Shopify/sarama)
 - [franz-go - A modern Kafka client for Go](https://github.com/twmb/franz-go)
 
-### Python
+#### Python
 - [Confluent's Python Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-python)
 - [kafka-python - Pure Python client for Apache Kafka](https://github.com/dpkp/kafka-python)
 
-### Node.js
+#### Node.js
 - [KafkaJS - Kafka client for Node.js](https://github.com/tulios/kafkajs)
 
-### Rust
+#### Rust
 - [kafka-rust - Rust client for Apache Kafka](https://github.com/spicavigo/kafka-rust)
 
-### Ruby
+#### Ruby
 - [ruby-kafka - Ruby client for Apache Kafka](https://github.com/zendesk/ruby-kafka)
 
-### C
+#### C
 - [librdkafka - C library for Apache Kafka](https://github.com/edenhill/librdkafka)
 
 ## Extensions
