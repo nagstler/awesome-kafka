@@ -10,12 +10,7 @@ jobs:
     - name: Check out code
       uses: actions/checkout@v2
 
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
+    - name: Check dead links with lychee
+      uses: lycheeverse/lychee-action@v1.1.1
       with:
-        ruby-version: 2.7
-
-    - name: Check dead links with awesome_bot
-      run: |
-        gem install awesome_bot
-        awesome_bot README.md --allow-redirect --allow-dupe --white-list github.com,awesome.re
+        args: README.md
