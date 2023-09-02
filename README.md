@@ -1,4 +1,7 @@
-![Kafka Logo](./assets/logos/kafka.png)
+<p align="center">
+  <img src="logo.png" alt="Kafka Logo" width="200">
+</p>
+
 
 # Awesome Kafka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
