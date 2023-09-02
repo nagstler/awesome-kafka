@@ -1,6 +1,7 @@
+![Kafka Logo](logos/kafka.png)
+
 # Awesome Kafka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Apache Kafka frameworks, libraries, software, and resources.
 
 ## Contents
 
