@@ -2,9 +2,16 @@
   <img src="logo.png" alt="Kafka Logo" width="200">
 </p>
 
-# Awesome Kafka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h1 align="center">Awesome Kafka</h1>
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a>
+</p>
 
-> A curated list of awesome Apache Kafka frameworks, libraries, software, and resources.
+<p align="center">
+  A curated list of awesome Apache Kafka frameworks, libraries, software, and resources.
+</p>
+
+---
 
 ## Table of Contents
 
@@ -22,15 +29,21 @@
 - [Community](#community)
 - [Contributing](#contributing)
 
+---
+
 ## Introduction
 
 - [What is Apache Kafka?](https://kafka.apache.org/intro)
 - [Kafka Documentation](https://kafka.apache.org/documentation/)
 
+---
+
 ## Official Resources
 
 - [Kafka GitHub](https://github.com/apache/kafka)
 - [Kafka JIRA](https://issues.apache.org/jira/projects/KAFKA/summary)
+
+---
 
 ## Books
 
@@ -38,76 +51,95 @@
 - "Streaming Systems" by Tyler Akidau, Slava Chernyak, and Reuven Lax.
 - "Mastering Kafka Streams and ksqlDB" by Mitch Seymour.
 
+---
+
 ## Tutorials & Courses
 
 - [Confluent Kafka Tutorials](https://www.confluent.io/blog/apache-kafka-tutorial/)
 - [Udemy: Apache Kafka Series](https://www.udemy.com/courses/search/?q=apache%20kafka)
-- ...
+
+---
 
 ## Tools
 
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Web UI for viewing Kafka topics and browsing consumer groups.
 - [Kafka Tool](http://www.kafkatool.com/) - GUI application for managing and using Apache Kafka clusters.
-- ...
+
+---
 
 ## Libraries
 
-#### .NET
+### .NET
+
 - [Confluent's .NET Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-dotnet)
 
-#### Java
+### Java
+
 - [Confluent's Java Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-java)
 
-#### Go
+### Go
+
 - [Confluent's Go Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-go)
 - [Sarama - Go client library for Apache Kafka](https://github.com/Shopify/sarama)
 - [franz-go - A modern Kafka client for Go](https://github.com/twmb/franz-go)
 
-#### Python
+### Python
+
 - [Confluent's Python Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-python)
 - [kafka-python - Pure Python client for Apache Kafka](https://github.com/dpkp/kafka-python)
 
-#### Node.js
+### Node.js
+
 - [KafkaJS - Kafka client for Node.js](https://github.com/tulios/kafkajs)
 
-#### Rust
+### Rust
+
 - [kafka-rust - Rust client for Apache Kafka](https://github.com/spicavigo/kafka-rust)
 
-#### Ruby
+### Ruby
+
 - [ruby-kafka - Ruby client for Apache Kafka](https://github.com/zendesk/ruby-kafka)
 
-#### C
+### C
+
 - [librdkafka - C library for Apache Kafka](https://github.com/edenhill/librdkafka)
+
+---
 
 ## Extensions
 
 - [Kafka Connect](https://kafka.apache.org/documentation/#connect)
 - [Kafka Streams](https://kafka.apache.org/documentation/streams/)
-- ...
+
+---
 
 ## Integrations
 
 - [Debezium - CDC with Kafka](https://debezium.io/)
 - [Kafka Connect JDBC Connector](https://www.confluent.io/hub/confluentinc/kafka-connect-jdbc)
-- ...
+
+---
 
 ## Projects Using Kafka
 
 - [Pinot (Real-time distributed OLAP datastore)](https://pinot.apache.org/)
 - [ProjectX](#)
-- ...
+
+---
 
 ## Blogs and Articles
 
 - [Confluent Blog](https://www.confluent.io/blog/)
 - [Jack Vanlightly's Kafka and RabbitMQ Comparisons](https://jack-vanlightly.com/)
-- ...
+
+---
 
 ## Conferences & Meetups
 
 - [Kafka Summit](https://kafka-summit.org/)
 - [Meetup.com Kafka Groups](https://www.meetup.com/topics/apache-kafka/)
-- ...
+
+---
 
 ## Community
 
@@ -115,7 +147,10 @@
 - [Kafka Slack](https://slackpass.io/confluentcommunity)
 - [Kafka Stack Overflow](https://stackoverflow.com/questions/tagged/kafka)
 
+---
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
+---
