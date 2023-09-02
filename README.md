@@ -1,4 +1,4 @@
-![Kafka Logo](logos/kafka.png)
+![Kafka Logo](./assets/logos/kafka.png)
 
 # Awesome Kafka [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
