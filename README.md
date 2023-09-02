@@ -6,6 +6,13 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/nagstler/awesome-kafka/actions/workflows/deadlink-check.yml">
+    <img src="https://github.com/nagstler/awesome-kafka/actions/workflows/deadlink-check.yml/badge.svg" alt="Dead Link Check Badge">
+  </a>
+</p>
+
+
 
 <p align="center">
   A curated list of awesome Apache Kafka frameworks, libraries, software, and resources.

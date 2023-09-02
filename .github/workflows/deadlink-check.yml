@@ -1,0 +1,21 @@
+name: Check Dead Links
+
+on: [push, pull_request]
+
+jobs:
+  dead-links:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.7
+
+    - name: Check dead links with awesome_bot
+      run: |
+        gem install awesome_bot
+        awesome_bot README.md --allow-redirect --allow-dupe --white-list github.com,awesome.re
