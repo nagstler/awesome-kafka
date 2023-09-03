@@ -61,7 +61,7 @@
 ## Tutorials & Courses
 
 - [Confluent Kafka Tutorials](https://www.confluent.io/blog/apache-kafka-tutorial/)
-- [Udemy: Apache Kafka Series](https://www.udemy.com/courses/search/?q=apache%20kafka)
+- [Udemy: Learn Apache Kafka for Beginners v3](https://www.udemy.com/course/apache-kafka)
 
 ---
 
