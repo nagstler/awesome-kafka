@@ -52,8 +52,7 @@
 
 ## Books
 
-- "Kafka: The Definitive Guide" by Neha Narkhede, Gwen Shapira, and Todd Palino.
-- "Streaming Systems" by Tyler Akidau, Slava Chernyak, and Reuven Lax.
+- "Kafka: The Definitive Guide, 2nd Edition" By Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty.
 - "Mastering Kafka Streams and ksqlDB" by Mitch Seymour.
 
 ---
